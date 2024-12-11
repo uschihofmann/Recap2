@@ -2,7 +2,7 @@
 
 In a previous project, you created the layout for a Quiz App using HTML and CSS. The focus of this project is to add interactivity with JavaScript.
 
-## Overview
+## Overview mit Änderung
 
 We will add interactivity to the **Home** and **Bookmark** pages, allowing users to bookmark a card and show or hide the answer to a question. Additionally, we will create a new page, **Add**, where users can submit their own questions with answers and hashtags. These newly created question cards will be displayed on the **Add** page.
 
@@ -80,7 +80,7 @@ The following acceptance criteria should be met for the answer button:
 - The user can click on this button endlessly and the answer will **either be displayed or hidden**
   after each click
 - The **toggle** functionality should be applied by using a **class** which is named **"hidden"**
-> If you used the template, there is a class `card__answer--active` you can work with
+  > If you used the template, there is a class `card__answer--active` you can work with
 - If the user clicks on an answer button, we want the button to say **"hide answer"** when the
   answer is displayed and **"show answer"** when the answer is not displayed.
 
